@@ -1,6 +1,6 @@
 # script
 
-*** compile
+### compile
 
 ```bash
 $ cd move
@@ -8,7 +8,7 @@ $ cd move
 $ aptos move compile-script
 ```
 
-*** run
+### run
 
 ```bash
 $ npm i
